@@ -10,7 +10,7 @@ creation of Objects.
 
 ## Authors
 
-* **Siddharth Patel** (https://github.com/sidpatel-github/java-collections)
+* **Siddharth Patel** (https://github.com/sidpatel-github/creational-pattern)
 
 ## License
 
